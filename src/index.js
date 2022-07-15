@@ -16,3 +16,4 @@ const person = {
 };
 
 healthIndicator(person);
+console.log(person)
