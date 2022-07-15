@@ -8,5 +8,4 @@ branches:
   - npm install
   build: webpack --mode production
   test_script:
-  - npm run lint
   - npm test
